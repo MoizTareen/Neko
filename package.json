@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "node-fetch": "^3.2.6",
+    "simply-djs": "^3.0.2"
+  }
+}
