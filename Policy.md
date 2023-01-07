@@ -8,7 +8,7 @@
 
   <h3>Have any problem with that?</h3>
 
-  <p>If you hqve any problem with us regarding saving your guild id just join bots support server and let us know. </p>
+  <p>If you have any problem with us regarding saving your guild id just join bots support server and let us know. </p>
 
 <h3> 
   What Permissions the bot asks for?</h3>
